@@ -8,7 +8,7 @@
 <tr>
 
  
-    <td><img src="https://user-images.githubusercontent.com/63465350/124785740-1110fa80-df82-11eb-918a-a952849034ad.png" width="300"></td>
+    <td><img src="/MyAndroidApp_LAB3/img/3-1.png" width="300"></td>
 
 
   
@@ -20,4 +20,4 @@
 
 
 
-https://user-images.githubusercontent.com/63465350/124785595-f2aaff00-df81-11eb-9c18-550c8e15b307.png
+
